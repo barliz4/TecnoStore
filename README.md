@@ -2,6 +2,8 @@
 
 Bienvenido a **TechStore**, una tienda web moderna enfocada en la venta de productos tecnológicos con una interfaz atractiva, dinámica y responsive.
 
+🔗 **Ver Demo en Vivo:** [TecnoStore](https://barliz4.github.io/TecnoStore/) 
+
 ---
 
 ## 🚀 Descripción
