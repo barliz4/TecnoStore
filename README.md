@@ -1,4 +1,4 @@
-# 🛒 TechStore - Tienda Tecnológica
+# 🛒 TecnoStore - Tienda Tecnológica
 
 Bienvenido a **TechStore**, una tienda web moderna enfocada en la venta de productos tecnológicos con una interfaz atractiva, dinámica y responsive.
 
