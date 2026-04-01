@@ -8,7 +8,7 @@ Bienvenido a **TechStore**, una tienda web moderna enfocada en la venta de produ
 
 ## 🚀 Descripción
 
-Este proyecto consiste en el desarrollo de una página web para una tienda tecnológica, diseñada para ofrecer una experiencia de usuario fluida, moderna y visualmente impactante.
+Este proyecto consiste en el desarrollo de una página web para una tienda tecnológica, diseñada para ofrecer una experiencia de usuario fluida, moderna y visualmente impactante. 
 
 El sitio permite visualizar productos, conocer sus características y simular una experiencia de compra dentro de un entorno atractivo tipo e-commerce.
 
